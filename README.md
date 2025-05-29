@@ -25,5 +25,6 @@ MiniCompiler/
 ├── icg.py # Intermediate Code Generator
 ├── gui.py # GUI with Tkinter
 ├── main.py # Entry point to run the compiler
-└── README.md # Project documentation
+└── README.md # Project documentation.
+
 
